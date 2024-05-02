@@ -19,8 +19,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelpmaio&show_icons=true&rank_icon=github&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpmaio&layout=compact&theme=dark">
 </div>
-
-<div style="display:inline_block">
+<div style="display:inline_block"><br/>
   <img align="center" alt="Rafa-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Rafa-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
@@ -28,4 +27,12 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Rafa-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="Rafa-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+</div>
+
+##
+
+<div>
+  <a href="https://br.linkedin.com/in/rafael-de-paiva-maio">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
