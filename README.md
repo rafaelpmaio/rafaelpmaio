@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-
-<br/>
+<div>
+  <a href="https://www.linkedin.com/in/rafael-de-paiva-maio">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div><br/>
 
 <p>
   My name is Rafael Maio (he/him). I'm a Software Developer from Brazil! 
@@ -25,11 +28,6 @@
 
 ##
 
-<div>
-  <a href="https://www.linkedin.com/in/rafael-de-paiva-maio">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
 
 <!--
 **rafaelpmaio/rafaelpmaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
