@@ -6,9 +6,8 @@
   </a>
 </div><br/>
 
-<p>
-  My name is Rafael Maio (he/him). I'm a Software Developer from Brazil! 
-</p>
+Meu nome é Rafael Maio (ele/dele). Sou um desenvolvedor de software do Brasil! <br>
+<i> My name is Rafael Maio (he/him). I'm a Software Developer from Brazil! </i>
 
 <br/>
 
@@ -26,14 +25,15 @@
   <img align="center" alt="Rafa-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </div> <br>
 
-## Projects ⚙️
+## Projetos / Projects ⚙️
 
 ### Drinks Datasheet 🍹
-<img alt="drinks datasheet project" height="200" src="https://i.ibb.co/7ywy5gB/drink-Datasheet-App.png">
+<img alt="drinks datasheet project" height="auto" width="100%" src="https://i.ibb.co/7ywy5gB/drink-Datasheet-App.png">
 
-Create your own drinks and organize them into collections!
+> Aplicativo WEB que auxilia na criação, precificação e organização de drinks em coleções. <br>
+> _WebApp that helps you to create, price and organize your drinks into collections._
 
-#### Tools Used 🛠️
+#### Ferramentas Usadas / Tools Used 🛠️
 <div>
   
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
