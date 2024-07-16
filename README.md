@@ -52,6 +52,30 @@ Meu nome é Rafael Maio (ele/dele). Sou um desenvolvedor de software do Brasil! 
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
+
+### MTG Collections 🕹️
+<img alt="drinks datasheet project" height="auto" width="100%" src="https://i.ibb.co/3s8RqZQ/mtg-collections.png">
+
+> App inspirado em um hobby da infância! Acompanhar o progresso da sua coleção pessoal no jogo de cartas de Magic the Gathering com facilidade e organização. <br>
+> _Webapp inspired by a childhood hobby! Easily and efficiently track the progress of your personal collection in the Magic The Gathering card game._
+
+#### Ferramentas Usadas / Tools Used 🛠️
+<div>
+  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+ </div>
+
+#### Links 🔗
+<div>
+  <a href="https://github.com/rafaelpmaio/mtg-collection">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://mtg-collection.vercel.app/">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
   
 
 
